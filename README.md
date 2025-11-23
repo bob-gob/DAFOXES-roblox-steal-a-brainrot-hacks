@@ -32,6 +32,7 @@ Invisible Mode - Toggles character transparency for stealth gameplay, making it 
 🛠️ .NET Framework: 4.8+
 
 🤔 How to install on Windows?
+
 Download the .zip archive using download button.
 Extract the archive to a secure location.
 Run ProjectLauncher.exe as administrator.
